@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Simeon's Blog]]></title>
-  <link href="https://github.com/simeonlu/simeonlu.github.io/atom.xml" rel="self"/>
-  <link href="https://github.com/simeonlu/simeonlu.github.io/"/>
-  <updated>2015-09-28T22:57:17+08:00</updated>
-  <id>https://github.com/simeonlu/simeonlu.github.io/</id>
+  <link href="http://simeonlu.github.io/atom.xml" rel="self"/>
+  <link href="http://simeonlu.github.io/"/>
+  <updated>2015-09-28T23:14:57+08:00</updated>
+  <id>http://simeonlu.github.io/</id>
   <author>
     <name><![CDATA[Simeon Lu]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Blog Test]]></title>
-    <link href="https://github.com/simeonlu/simeonlu.github.io/blog/2015/09/28/first-blog-test/"/>
-    <updated>2015-09-28T22:30:48+08:00</updated>
-    <id>https://github.com/simeonlu/simeonlu.github.io/blog/2015/09/28/first-blog-test</id>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://simeonlu.github.io/blog/2015/09/28/test/"/>
+    <updated>2015-09-28T23:14:17+08:00</updated>
+    <id>http://simeonlu.github.io/blog/2015/09/28/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
