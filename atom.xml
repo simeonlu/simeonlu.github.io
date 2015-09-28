@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Simeon's Blog]]></title>
+  <link href="https://github.com/simeonlu/simeonlu.github.io/atom.xml" rel="self"/>
+  <link href="https://github.com/simeonlu/simeonlu.github.io/"/>
+  <updated>2015-09-28T22:57:17+08:00</updated>
+  <id>https://github.com/simeonlu/simeonlu.github.io/</id>
+  <author>
+    <name><![CDATA[Simeon Lu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Blog Test]]></title>
+    <link href="https://github.com/simeonlu/simeonlu.github.io/blog/2015/09/28/first-blog-test/"/>
+    <updated>2015-09-28T22:30:48+08:00</updated>
+    <id>https://github.com/simeonlu/simeonlu.github.io/blog/2015/09/28/first-blog-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
